@@ -1,0 +1,14 @@
+{
+    "name": "frontend",
+    "version": "0.0.1",
+    "scripts": {
+      "start": "ng serve --proxy-config proxy.conf.json"
+    },
+    "dependencies": {
+      "@angular/core": "^16.0.0",
+      "@angular/common": "^16.0.0",
+      "@angular/http": "^16.0.0",
+      "rxjs": "^7.0.0"
+    }
+  }
+  
